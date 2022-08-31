@@ -1,1 +1,1 @@
-script that creates my_first_directory inside tmp directory
+script to move betty in my first directory
