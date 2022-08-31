@@ -1,1 +1,1 @@
-script showing commands that lists all files and directories of the current directory
+script to create a magic file
