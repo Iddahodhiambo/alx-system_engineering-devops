@@ -1,1 +1,1 @@
-script that lists all files even the ones beginning with characters
+script that prints the type of file named
