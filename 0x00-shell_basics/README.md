@@ -1,1 +1,1 @@
-script to move betty in my first directory
+script for deleting the file betty
