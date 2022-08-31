@@ -1,1 +1,1 @@
-script that deletes files in the current working directory
+script that creates directories in the current directory
