@@ -1,1 +1,1 @@
-A script that changes the owner of the file
+ script that prints effective username and current user
