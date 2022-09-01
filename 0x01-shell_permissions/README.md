@@ -1,1 +1,1 @@
-script that creates empty file
+script that sets the mode of the file
