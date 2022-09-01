@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -x root:root
+chmod -x root:root hello
