@@ -1,1 +1,1 @@
-a script that sets file permission same as another
+a script that changes the owner and group of a file respectively
