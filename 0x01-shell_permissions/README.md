@@ -1,1 +1,1 @@
-a script that changes multiple permissions
+a script that sets file permission same as another
