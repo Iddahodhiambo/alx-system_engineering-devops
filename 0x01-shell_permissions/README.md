@@ -1,1 +1,1 @@
-script that creates a directory
+a script that sets the mode of the file
