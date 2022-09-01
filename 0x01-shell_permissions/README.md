@@ -1,1 +1,1 @@
-script that adds execution permission to the owner,the group and users
+script that adds execute permission to all subdirectories
