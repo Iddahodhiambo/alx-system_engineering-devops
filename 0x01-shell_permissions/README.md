@@ -1,1 +1,1 @@
-script that switches the current user to betty
+A script that changes the owner of the file
