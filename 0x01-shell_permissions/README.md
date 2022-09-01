@@ -1,1 +1,1 @@
- script that prints effective username and current user
+script that creates empty file
